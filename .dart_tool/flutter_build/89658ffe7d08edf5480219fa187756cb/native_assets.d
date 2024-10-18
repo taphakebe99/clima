@@ -1,0 +1,1 @@
+ /home/kebe/Bureau/udemy_flutter/clima/.dart_tool/flutter_build/89658ffe7d08edf5480219fa187756cb/native_assets.yaml: 
